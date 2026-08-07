@@ -1,0 +1,12 @@
+{
+  "name": "docker-project-18-nodejs-rest-api",
+  "version": "1.0.0",
+  "description": "Docker Project 18",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
