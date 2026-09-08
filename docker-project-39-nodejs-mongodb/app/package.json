@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-mongodb-app",
+  "version": "1.0.0",
+  "description": "Docker Node.js and MongoDB application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongodb": "^6.20.0"
+  }
+}
